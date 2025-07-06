@@ -61,9 +61,9 @@ A full-stack role-based web application developed using **ASP.NET Core Web API**
 
 | Home | Login | Register | 
 |-------|------------------|-----------------|
-| ![](assets/Home.png) | ![](assets/login.png) |![](assets/Register.png) 
+| ![](assets/Home.png) | ![](assets/Login.png) |![](assets/Register.png) 
 
-| Admin Dashboard | TeacherDashboard | Student Dashboard | Student Result |
+| Admin Dashboard     |      TeacherDashboard |    Student Dashboard |    Student Result |
 |-------|------------------|-----------------|
 | ![](assets/AdminDashboard.png) |![](assets/TeacherDashboard.png) ![](assets/StudentDashboard.png) | ![](assets/StudentPage2.png) |
 
