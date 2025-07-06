@@ -1,0 +1,50 @@
+/* Base sidebar link */
+.sidebar-link {
+  color: #ffffff;
+  transition: all 0.3s ease;
+  font-weight: 500;
+}
+
+/* Hover effect - visible yellow highlight */
+.sidebar-link:hover {
+  background-color:rgb(243, 173, 240)!important;
+  color: #212529 !important;
+  font-weight: bold;
+  border-radius: 6px;
+}
+
+/* Active route highlight */
+.sidebar-link.active-link {
+   background-color:rgb(243, 173, 240) !important;
+  color: #212529 !important;
+  font-weight: bold;
+  border-left: 4px solid #212529;
+  border-radius: 6px;
+}
+
+
+
+
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
